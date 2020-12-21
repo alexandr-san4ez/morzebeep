@@ -83,7 +83,6 @@ def play(text, duration=100, frequency=1000):
 
 def main():
     play(' '.join(argv[1:]))
-    # play('Hello world.')
 
 
 if __name__ == "__main__":
